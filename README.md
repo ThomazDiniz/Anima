@@ -8,3 +8,10 @@ Imagem original:
 Imagem Resultado:
 
 ![Resultado](GIF.gif)
+
+
+
+Exemplos:
+![1](img1.png) ![1](gif1.png)
+![2](img2.png) ![2](gif2.png)
+![3](img3.png) ![3](gif3.png)
