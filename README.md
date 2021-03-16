@@ -4,7 +4,7 @@ AnimaShader é um shader desenvolvido para criar animações a partir de imagens
 # Exemplos:
 Original             |  Resultado
 :-------------------------:|:-------------------------:
-![0](img0.png) | ![0](gif0.gif)
+![0](imgs/img0.png) | ![0](gif0.gif)
 ![Original](img.png) | ![Resultado](GIF.gif)
 ![1](img1.png) | ![1](gif1.gif)
 ![2](img2.png) | ![2](gif2.gif)
